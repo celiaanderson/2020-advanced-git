@@ -1,5 +1,5 @@
 /* echo.c - echo user input */
-/* [AUTHOR GOES HERE] */
+/* Celia Anderson */
 /* Last updated: 3/23/18 */
 
 #include <stdio.h>
